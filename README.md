@@ -1,1 +1,1 @@
-# RayleighBenardConvection
+# Rayleigh Benard Convection
